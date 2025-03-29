@@ -2,6 +2,12 @@
 
 ---
 
+## Demo
+
+[Demo](https://timed-card-carousel.netlify.app/)
+
+---
+
 ## Tutorial
 
 This project is explained step-by-step in the following YouTube tutorial:
